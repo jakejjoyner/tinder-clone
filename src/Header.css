@@ -6,9 +6,9 @@
 }
 
 .header__logo {
-  height: 65px;
+  height: 110px;
   /*width: 90px;*/
-  object-fit: contain;
+  object-fit: contain; /* makes everything uniform */
 }
 
 .header__icon {
